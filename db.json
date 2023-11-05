@@ -1,9 +1,22 @@
 {
-  "id": 1,
-  "name": "Nome do Vendedor",
-  "service": "Serviço Vendido",
-  "price": 123.45,
-  "description": "Descrição do Vendedor",
-  "tags": ["Tag1", "Tag2"],
-  "icon": "business" 
+  "products": [
+    {
+      "id": 1,
+      "name": "Nome do Vendedor 1",
+      "service": "Serviço Vendido 1",
+      "price": 123.45,
+      "description": "Descrição do Vendedor 1",
+      "tags": ["Tag1", "Tag2"],
+      "icon": "business"
+    },
+    {
+      "id": 2,
+      "name": "Nome do Vendedor 2",
+      "service": "Serviço Vendido 2",
+      "price": 67.89,
+      "description": "Descrição do Vendedor 2",
+      "tags": ["Tag3", "Tag4"],
+      "icon": "home"
+    }
+  ]
 }
