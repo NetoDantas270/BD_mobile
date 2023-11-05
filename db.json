@@ -5,5 +5,5 @@
   "price": 123.45,
   "description": "Descrição do Vendedor",
   "tags": ["Tag1", "Tag2"],
-  "icon": "business"  // Este campo pode ser opcional ou definido do lado do cliente
+  "icon": "business" 
 }
