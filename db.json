@@ -224,42 +224,6 @@
       "description": "Revitalize sua pele e mente com nosso pacote exclusivo de spa urbano. Tratamentos rejuvenescedores.",
       "tags": ["Beleza", "Spa"],
       "icon": "Icons.spa"
-    },
-    {
-      "id": 26,
-      "name": "Curso de Idiomas Online",
-      "service": "Assinatura Anual",
-      "price": 49.99,
-      "description": "Aprenda um novo idioma no seu próprio ritmo. Aulas interativas e material didático abrangente.",
-      "tags": ["Educação"],
-      "icon": "Icons.school"
-    },
-    {
-      "id": 27,
-      "name": "Ingressos para Concerto ao Vivo",
-      "service": "Ingresso VIP",
-      "price": 30.00,
-      "description": "Desfrute de um concerto ao vivo com conforto VIP. Uma experiência musical inesquecível.",
-      "tags": ["Entretenimento"],
-      "icon": "Icons.movie"
-    },
-    {
-      "id": 28,
-      "name": "Resort de Luxo nas Montanhas",
-      "service": "Pacote de Esqui",
-      "price": 500.00,
-      "description": "Desfrute do luxo em meio às montanhas. Pacote completo com atividades de esqui e relaxamento.",
-      "tags": ["Hotelaria"],
-      "icon": "Icons.hotel"
-    },
-    {
-      "id": 29,
-      "name": "Serviço de Limpeza Industrial",
-      "service": "Limpeza Especializada",
-      "price": 200.00,
-      "description": "Mantenha sua fábrica limpa e segura. Serviço de limpeza especializada para ambientes industriais.",
-      "tags": ["Limpeza"],
-      "icon": "Icons.cleaning_services"
     }
   ]
 }
