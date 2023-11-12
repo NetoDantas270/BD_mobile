@@ -269,15 +269,6 @@
       "description": "Melhore o desempenho do seu computador. Upgrade de hardware rápido e eficiente.",
       "tags": ["Manutenção"],
       "icon": "Icons.settings"
-    },
-    {
-      "id": 31,
-      "name": "Boutique de Acessórios para Pets",
-      "service": "Kit Fashion para Cães",
-      "price": 25.00,
-      "description": "Deixe seu cão na moda com nosso kit fashion. Coleiras, roupinhas e acessórios irresistíveis.",
-      "tags": ["Pets"],
-      "icon": "Icons.pets"
     }
   ]
 }
