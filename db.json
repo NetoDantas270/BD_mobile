@@ -259,7 +259,7 @@
       "price": 200.00,
       "description": "Mantenha sua fábrica limpa e segura. Serviço de limpeza especializada para ambientes industriais.",
       "tags": ["Limpeza"],
-      "icon": Icons.cleaning_services
+      "icon": "Icons.cleaning_services"
     },
     {
       "id": 30,
