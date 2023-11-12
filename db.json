@@ -2,21 +2,292 @@
   "products": [
     {
       "id": 1,
-      "name": "Nome do Vendedor 1",
-      "service": "Serviço Vendido 1",
-      "price": 123.45,
-      "description": "Descrição do Vendedor 1",
-      "tags": ["Tag1", "Tag2"],
-      "icon": "business"
+      "name": "Restaurante Sabor & Arte",
+      "service": "Refeição Gourmet",
+      "price": 35.99,
+      "description": "Experimente pratos deliciosos preparados por chefs renomados.",
+      "tags": ["Alimentação", "Entretenimento"],
+      "icon": "restaurant"
     },
     {
       "id": 2,
-      "name": "Nome do Vendedor 2",
-      "service": "Serviço Vendido 2",
-      "price": 67.89,
-      "description": "Descrição do Vendedor 2",
-      "tags": ["Tag3", "Tag4"],
-      "icon": "home"
-    }
+      "name": "Espaço Festivo",
+      "service": "Locação para Eventos",
+      "price": 450.00,
+      "description": "Alugue nosso espaço para festas e celebrações inesquecíveis.",
+      "tags": ["Aluguel", "Entretenimento"],
+      "icon": "event"
+    },
+    {
+      "id": 3,
+      "name": "Salão Belleza Chic",
+      "service": "Pacote de Beleza",
+      "price": 80.50,
+      "description": "Transforme-se com nossos serviços de beleza premium.",
+      "tags": ["Beleza"],
+      "icon": "spa"
+    },
+    {
+      "id": 4,
+      "name": "Curso MasterMind",
+      "service": "Curso Online Avançado",
+      "price": 199.99,
+      "description": "Aprimore suas habilidades com os melhores mentores do mercado.",
+      "tags": ["Educação", "Entretenimento"],
+      "icon": "school"
+    },
+    {
+      "id": 5,
+      "name": "Cinema VIP",
+      "service": "Ingresso Premium",
+      "price": 20.00,
+      "description": "Assista aos últimos lançamentos em conforto e estilo.",
+      "tags": ["Entretenimento"],
+      "icon": "theater_comedy"
+    },
+    {
+      "id": 6,
+      "name": "Hotel Lux",
+      "service": "Estadia de Luxo",
+      "price": 200.00,
+      "description": "Desfrute de uma estadia luxuosa em nosso hotel cinco estrelas.",
+      "tags": ["Hotelaria"],
+      "icon": "hotel"
+    },
+    {
+      "id": 7,
+      "name": "Limpeza Profunda",
+      "service": "Serviço de Limpeza Residencial",
+      "price": 50.00,
+      "description": "Deixe sua casa impecável com nossa equipe especializada.",
+      "tags": ["Limpeza", "Manutenção"],
+      "icon": "cleaning_services"
+    },
+    {
+      "id": 8,
+      "name": "Manutenção Express",
+      "service": "Reparos Rápidos",
+      "price": 75.99,
+      "description": "Resolvemos pequenos reparos com eficiência e rapidez.",
+      "tags": ["Manutenção"],
+      "icon": "build"
+    },
+    {
+      "id": 9,
+      "name": "Pet Paradise",
+      "service": "Banho e Tosa",
+      "price": 45.00,
+      "description": "Proporcione ao seu pet uma experiência de spa.",
+      "tags": ["Pets"],
+      "icon": "pets"
+    },
+    {
+      "id": 10,
+      "name": "Clínica Saúde Total",
+      "service": "Check-up Completo",
+      "price": 150.00,
+      "description": "Cuide da sua saúde com nossos exames abrangentes.",
+      "tags": ["Saúde"],
+      "icon": "medical_services"
+    },
+    {
+      "id": 11,
+      "name": "Transporte Executivo",
+      "service": "Transferência VIP",
+      "price": 80.00,
+      "description": "Viaje com conforto em nossos veículos de luxo.",
+      "tags": ["Transporte"],
+      "icon": "directions_bus"
+    },
+   {
+      "id": 12,
+      "name": "Chef em Casa",
+      "service": "Jantar Privativo",
+      "price": 150.00,
+      "description": "Um chef prepara uma experiência gastronômica exclusiva na sua casa.",
+      "tags": ["Alimentação", "Entretenimento"],
+      "icon": "restaurant_menu"
+    },
+    {
+      "id": 13,
+      "name": "Aluguel de Bicicletas",
+      "service": "Passeio Ecológico",
+      "price": 15.00,
+      "description": "Explore a cidade em duas rodas com nossas bicicletas de alta qualidade.",
+      "tags": ["Aluguel", "Transporte"],
+      "icon": "directions_bike"
+    },
+    {
+      "id": 14,
+      "name": "Spa Relaxante",
+      "service": "Pacote Relaxamento",
+      "price": 120.00,
+      "description": "Recarregue suas energias com nossos tratamentos de spa relaxantes.",
+      "tags": ["Beleza", "Saúde"],
+      "icon": "spa"
+    },
+    {
+      "id": 15,
+      "name": "Aula de Dança",
+      "service": "Dança de Salão",
+      "price": 30.00,
+      "description": "Aprenda a dançar com nossos instrutores especializados.",
+      "tags": ["Educação", "Entretenimento"],
+      "icon": "fitness_center"
+    },
+    {
+      "id": 16,
+      "name": "Teatro ao Vivo",
+      "service": "Ingresso para Espetáculo",
+      "price": 25.00,
+      "description": "Desfrute de performances ao vivo em nossos teatros parceiros.",
+      "tags": ["Entretenimento"],
+      "icon": "theater_comedy"
+    },
+    {
+      "id": 17,
+      "name": "Resort All-Inclusive",
+      "service": "Pacote de Férias",
+      "price": 500.00,
+      "description": "Curta suas férias com todas as comodidades inclusas em nosso resort.",
+      "tags": ["Hotelaria", "Entretenimento"],
+      "icon": "hotel"
+    },
+    {
+      "id": 18,
+      "name": "Serviço de Faxina",
+      "service": "Limpeza Residencial Profunda",
+      "price": 60.00,
+      "description": "Deixe sua casa brilhando com nossa faxina completa.",
+      "tags": ["Limpeza", "Manutenção"],
+      "icon": "cleaning_services"
+    },
+    {
+      "id": 19,
+      "name": "Reparos Elétricos",
+      "service": "Manutenção Elétrica Residencial",
+      "price": 90.00,
+      "description": "Garanta a segurança da sua casa com nossos serviços especializados.",
+      "tags": ["Manutenção"],
+      "icon": "build"
+    },
+    {
+      "id": 20,
+      "name": "Pet Boutique",
+      "service": "Produtos Exclusivos para Pets",
+      "price": 25.00,
+      "description": "Mimos e acessórios exclusivos para o seu animal de estimação.",
+      "tags": ["Pets"],
+      "icon": "pets"
+    },
+    {
+      "id": 21,
+      "name": "Clínica Odontológica",
+      "service": "Check-up Odontológico",
+      "price": 80.00,
+      "description": "Mantenha seu sorriso saudável com nossos dentistas qualificados.",
+      "tags": ["Saúde"],
+      "icon": "medical_services"
+    },
+    {
+      "id": 22,
+      "name": "Serviço de Motorista",
+      "service": "Transporte Executivo Personalizado",
+      "price": 60.00,
+      "description": "Viaje com comodidade e segurança com nossos motoristas profissionais.",
+      "tags": ["Transporte"],
+      "icon": "directions_bus"
+    },
+    {
+      "id": 23,
+      "name": "Delivery Sabor Saudável",
+      "service": "Refeições Fitness",
+      "price": 29.99,
+      "description": "Desfrute de refeições saudáveis e saborosas entregues à sua porta.",
+      "tags": ["Alimentação"],
+      "icon": "restaurant_menu"
+    },
+    {
+      "id": 24,
+      "name": "Aluguel de Salas de Aula",
+      "service": "Espaço para Cursos",
+      "price": 80.00,
+      "description": "Alugue salas equipadas para realizar seus cursos e workshops.",
+      "tags": ["Aluguel", "Educação"],
+      "icon": "school"
+    },
+    {
+      "id": 25,
+      "name": "Salão Elegance",
+      "service": "Pacote de Noiva",
+      "price": 300.00,
+      "description": "Transforme-se em uma noiva deslumbrante em nosso salão exclusivo.",
+      "tags": ["Beleza"],
+      "icon": "spa"
+    },
+    {
+      "id": 26,
+      "name": "Aulas de Idiomas Online",
+      "service": "Curso de Inglês",
+      "price": 45.00,
+      "description": "Aprenda inglês com professores nativos no conforto da sua casa.",
+      "tags": ["Educação", "Entretenimento"],
+      "icon": "language"
+    },
+    {
+      "id": 27,
+      "name": "Show Acústico",
+      "service": "Evento Musical Intimista",
+      "price": 75.00,
+      "description": "Contrate músicos para um show acústico exclusivo em seu evento.",
+      "tags": ["Entretenimento"],
+      "icon": "music_note"
+    },
+    {
+      "id": 28,
+      "name": "Pousada Charmosa",
+      "service": "Hospedagem Aconchegante",
+      "price": 120.00,
+      "description": "Desfrute de uma estadia acolhedora em nossa pousada charmosa.",
+      "tags": ["Hotelaria"],
+      "icon": "hotel"
+    },
+    {
+      "id": 29,
+      "name": "Serviço de Jardinagem",
+      "service": "Manutenção de Jardim",
+      "price": 40.00,
+      "description": "Mantenha seu jardim impecável com nossos serviços de jardinagem.",
+      "tags": ["Limpeza", "Manutenção"],
+      "icon": "local_florist"
+    },
+    {
+      "id": 30,
+      "name": "Reparo de Encanamento",
+      "service": "Serviço Hidráulico",
+      "price": 55.00,
+      "description": "Resolvemos problemas de encanamento de forma eficiente e rápida.",
+      "tags": ["Manutenção"],
+      "icon": "build"
+    },
+    {
+      "id": 31,
+      "name": "Pet Hotel",
+      "service": "Hospedagem para Pets",
+      "price": 35.00,
+      "description": "Deixe seu animal de estimação em um hotel confortável enquanto você viaja.",
+      "tags": ["Pets", "Hotelaria"],
+      "icon": "pets"
+    },
+    {
+      "id": 32,
+      "name": "Consulta Nutricional",
+      "service": "Avaliação Nutricional",
+      "price": 65.00,
+      "description": "Cuide da sua saúde com uma consulta personalizada com um nutricionista.",
+      "tags": ["Saúde"],
+      "icon": "medical_services"
+    },
   ]
 }
+
