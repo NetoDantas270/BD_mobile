@@ -260,15 +260,6 @@
       "description": "Mantenha sua fábrica limpa e segura. Serviço de limpeza especializada para ambientes industriais.",
       "tags": ["Limpeza"],
       "icon": "Icons.cleaning_services"
-    },
-    {
-      "id": 30,
-      "name": "Assistência Técnica em Eletrônicos",
-      "service": "Upgrade de Hardware",
-      "price": 80.00,
-      "description": "Melhore o desempenho do seu computador. Upgrade de hardware rápido e eficiente.",
-      "tags": ["Manutenção"],
-      "icon": "Icons.settings"
     }
   ]
 }
