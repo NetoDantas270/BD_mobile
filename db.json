@@ -1,3 +1,6 @@
+Peço desculpas pela repetição. Vamos aumentar ainda mais a variedade nas avaliações:
+
+```json
 {
   "products": [
     {
@@ -7,7 +10,8 @@
       "price": 150.00,
       "description": "Experimente nosso buffet com uma variedade incrível de pratos. Perfeito para eventos e celebrações.",
       "tags": ["Alimentação"],
-      "icon": "restaurant"
+      "icon": "restaurant",
+      "avaliacao": 4.8
     },
     {
       "id": 2,
@@ -16,7 +20,8 @@
       "price": 1200.00,
       "description": "Casa espaçosa e confortável, perfeita para sua família. Localizada em um bairro tranquilo.",
       "tags": ["Aluguel"],
-      "icon": "house"
+      "icon": "house",
+      "avaliacao": 3.9
     },
     {
       "id": 3,
@@ -25,7 +30,8 @@
       "price": 80.00,
       "description": "Relaxe e renove suas energias com nosso pacote exclusivo de massagens. Uma experiência única de bem-estar.",
       "tags": ["Beleza", "Spa"],
-      "icon": "spa"
+      "icon": "spa",
+      "avaliacao": 4.5
     },
     {
       "id": 4,
@@ -34,7 +40,8 @@
       "price": 29.99,
       "description": "Aprenda a programar no conforto da sua casa. Conteúdo atualizado e suporte dedicado.",
       "tags": ["Educação"],
-      "icon": "school"
+      "icon": "school",
+      "avaliacao": 4.1
     },
     {
       "id": 5,
@@ -43,7 +50,8 @@
       "price": 12.50,
       "description": "Assista aos últimos lançamentos no cinema. Uma experiência única para os amantes de filmes.",
       "tags": ["Entretenimento", "Cinema"],
-      "icon": "movie"
+      "icon": "movie",
+      "avaliacao": 4.7
     },
     {
       "id": 6,
@@ -52,7 +60,8 @@
       "price": 250.00,
       "description": "Desfrute de uma estadia luxuosa em nosso hotel. Quartos espaçosos e serviços exclusivos.",
       "tags": ["Hotelaria"],
-      "icon": "hotel"
+      "icon": "hotel",
+      "avaliacao": 4.9
     },
     {
       "id": 7,
@@ -61,7 +70,8 @@
       "price": 80.00,
       "description": "Deixe sua casa impecável com nosso serviço de limpeza profissional. Resultados surpreendentes.",
       "tags": ["Limpeza"],
-      "icon": "cleaning_services"
+      "icon": "cleaning_services",
+      "avaliacao": 4.3
     },
     {
       "id": 8,
@@ -70,7 +80,8 @@
       "price": 60.00,
       "description": "Mantenha seu computador funcionando perfeitamente. Reparos rápidos e eficientes.",
       "tags": ["Manutenção"],
-      "icon": "settings"
+      "icon": "settings",
+      "avaliacao": 4.2
     },
     {
       "id": 9,
@@ -79,7 +90,8 @@
       "price": 40.00,
       "description": "Deixe seu animal de estimação com a pelagem impecável. Serviço profissional e cuidadoso.",
       "tags": ["Pets"],
-      "icon": "pets"
+      "icon": "pets",
+      "avaliacao": 4.6
     },
     {
       "id": 10,
@@ -88,7 +100,8 @@
       "price": 90.00,
       "description": "Cuide da sua saúde com nossos profissionais dedicados. Consultas abrangentes e atendimento personalizado.",
       "tags": ["Saúde", "Local Hospital"],
-      "icon": "local_hospital"
+      "icon": "local_hospital",
+      "avaliacao": 4.4
     },
     {
       "id": 11,
@@ -97,7 +110,8 @@
       "price": 45.00,
       "description": "Chegue ao seu destino com conforto e estilo. Serviço de transporte executivo para viagens tranquilas.",
       "tags": ["Transporte", "Direction Bus"],
-      "icon": "directions_bus"
+      "icon": "directions_bus",
+      "avaliacao": 3.8
     },
     {
       "id": 12,
@@ -106,7 +120,8 @@
       "price": 200.00,
       "description": "Descubra sabores incríveis com nosso menu degustação vegano. Uma experiência gastronômica única.",
       "tags": ["Alimentação"],
-      "icon": "restaurant"
+      "icon": "restaurant",
+      "avaliacao": 4.7
     },
     {
       "id": 13,
@@ -115,7 +130,8 @@
       "price": 1800.00,
       "description": "Apartamento moderno e bem localizado. Ideal para quem busca conforto e praticidade.",
       "tags": ["Aluguel"],
-      "icon": "house"
+      "icon": "house",
+      "avaliacao": 3.5
     },
     {
       "id": 14,
@@ -124,7 +140,8 @@
       "price": 120.00,
       "description": "Mime-se com nosso pacote VIP. Corte, coloração e tratamentos especiais para uma transformação completa.",
       "tags": ["Beleza", "Spa"],
-      "icon": "spa"
+      "icon": "spa",
+      "avaliacao": 4.6
     },
     {
       "id": 15,
@@ -133,7 +150,10 @@
       "price": 19.99,
       "description": "Aprenda os segredos da fotografia com nosso curso online. Instrutores experientes e aulas práticas.",
       "tags": ["Educação"],
-      "icon": "school"
+      "icon": "school",
+      "avaliacao":
+
+ 4.3
     },
     {
       "id": 16,
@@ -142,7 +162,8 @@
       "price": 20.00,
       "description": "Desfrute de peças teatrais emocionantes. Uma noite cultural inesquecível.",
       "tags": ["Entretenimento"],
-      "icon": "movie"
+      "icon": "movie",
+      "avaliacao": 4.9
     },
     {
       "id": 17,
@@ -151,7 +172,8 @@
       "price": 400.00,
       "description": "Relaxe em nosso resort à beira-mar. Piscinas, restaurantes e vistas deslumbrantes.",
       "tags": ["Hotelaria"],
-      "icon": "hotel"
+      "icon": "hotel",
+      "avaliacao": 4.8
     },
     {
       "id": 18,
@@ -160,7 +182,8 @@
       "price": 150.00,
       "description": "Mantenha seu escritório impecável. Serviço de limpeza profissional para ambientes comerciais.",
       "tags": ["Limpeza"],
-      "icon": "cleaning_services"
+      "icon": "cleaning_services",
+      "avaliacao": 4.2
     },
     {
       "id": 19,
@@ -169,7 +192,8 @@
       "price": 50.00,
       "description": "Conserto rápido e eficiente para seus dispositivos eletrônicos. Devolva a vida aos seus gadgets.",
       "tags": ["Manutenção"],
-      "icon": "settings"
+      "icon": "settings",
+      "avaliacao": 4.5
     },
     {
       "id": 20,
@@ -178,7 +202,8 @@
       "price": 35.00,
       "description": "Mime seu animal de estimação com nosso kit de mimos. Brinquedos e petiscos de alta qualidade.",
       "tags": ["Pets"],
-      "icon": "pets"
+      "icon": "pets",
+      "avaliacao": 4.7
     },
     {
       "id": 21,
@@ -187,16 +212,18 @@
       "price": 75.00,
       "description": "Mantenha seu sorriso saudável. Consulta odontológica com limpeza e avaliação completa.",
       "tags": ["Saúde", "Local Hospital"],
-      "icon": "local_hospital"
+      "icon": "local_hospital",
+      "avaliacao": 4.4
     },
-     {
+    {
       "id": 22,
       "name": "Serviço de Transferência para Eventos",
       "service": "Transporte VIP",
       "price": 60.00,
       "description": "Chegue aos eventos com estilo. Serviço de transporte VIP para ocasiões especiais.",
       "tags": ["Transporte", "Direction Bus"],
-      "icon": "directions_bus"
+      "icon": "directions_bus",
+      "avaliacao": 4.1
     },
     {
       "id": 23,
@@ -205,7 +232,8 @@
       "price": 25.00,
       "description": "Receba cafés gourmet em sua casa todo mês. Uma experiência sensorial para os amantes de café.",
       "tags": ["Alimentação"],
-      "icon": "restaurant"
+      "icon": "restaurant",
+      "avaliacao": 4.6
     },
     {
       "id": 24,
@@ -214,7 +242,8 @@
       "price": 300.00,
       "description": "Escape para a montanha em nosso chalé aconchegante. Perfeito para um fim de semana relaxante.",
       "tags": ["Aluguel"],
-      "icon": "house"
+      "icon": "house",
+      "avaliacao": 3.7
     },
     {
       "id": 25,
@@ -223,7 +252,8 @@
       "price": 90.00,
       "description": "Revitalize sua pele e mente com nosso pacote exclusivo de spa urbano. Tratamentos rejuvenescedores.",
       "tags": ["Beleza", "Spa"],
-      "icon": "spa"
+      "icon": "spa",
+      "avaliacao": 4.0
     }
   ]
 }
